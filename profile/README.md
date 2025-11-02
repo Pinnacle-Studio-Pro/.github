@@ -1,7 +1,7 @@
 # Pinnacle Studio – Professional Video Editing Software
 
 <p align="center">
-  <img src="https://images.seeklogo.com/logo-png/61/1/pinnacle-studio-logo-png_seeklogo-611098.png" alt="Pinnacle Studio Logo"/>
+  <img src="https://sw5-prod-media-files.s3.eu-central-1.amazonaws.com/media/image/cf/2c/7a/Pinnacle_Systems_logo_black_wordmark.png" alt="Pinnacle Studio Logo"/>
 </p>
 
 <p align="center">
